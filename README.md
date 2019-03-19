@@ -1,12 +1,8 @@
 ## Welcome to Chuoc Pham
 
 
-        ||Họ và tên|| 
-
-
-You can use the [editor on GitHub](https://github.com/PhamQuangChuocChuoc/005_Chuoc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+        ||      Họ Và Tên       || Ngày Sinh  || Quê Quán  || Trình độ || Chuyên Môn || Kinh Nghiệm Làm Việc || Dự Án Đã Thực Hiện ||
+        ||   Phạm Quang Chước   || 20/07/1997 || Vĩnh Long ||   12/12  ||     IT     || Đã Có 4 Năm Học Tập  ||  Quản Lí Đồ Án PM  ||
 
 ### Markdown
 
